@@ -1,2 +1,2 @@
-# IML-LAB
+# ML PROGRAMS
 Machine Learning programs
